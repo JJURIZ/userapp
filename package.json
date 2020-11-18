@@ -1,0 +1,27 @@
+{
+  "name": "userapp",
+  "version": "1.0.0",
+  "description": "This is an app that uses SQLize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJURIZ/userapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJURIZ/userapp/issues"
+  },
+  "homepage": "https://github.com/JJURIZ/userapp#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "pg": "^8.5.1",
+    "sequelize": "^6.3.5"
+  }
+}
