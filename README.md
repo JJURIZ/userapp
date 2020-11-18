@@ -1,2 +1,2 @@
 # userapp
-This is an app that uses SQLize
+This is an app that uses Sequelize
